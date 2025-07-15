@@ -74,11 +74,7 @@ Pull requests are welcome! If you'd like to contribute commands or improve the e
 
 ---
 
-## 📜 License
-
-MIT License. See [`LICENSE`](LICENSE) file for details.
-
----
-
 ## ✨ Enjoy Learning Linux!
-Made with ❤️ by [Sardor Shoakbarov](https://github.com/SardorShoakbarov)
+Made by [Sardor Shoakbarov](https://github.com/SardorShoakbarov)
+
+good luck Miss/Mr.Red ❤
