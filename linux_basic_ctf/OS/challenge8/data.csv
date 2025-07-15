@@ -1,5 +1,0 @@
-id,name,email,flag
-1,Alice,alice@example.com,none
-2,Bob,bob@example.com,none
-3,Charlie,charlie@example.com,FLAG{awk_owns_fields}
-4,David,david@example.com,none
