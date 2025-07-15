@@ -1,0 +1,2 @@
+no flag here
+some logs... FLAG{grep_it}

@@ -1,0 +1,16 @@
+🎯 Challenge 8: Extract the Right Field
+
+You've been given a file called `data.csv`.  
+It's structured like a table with 4 columns:
+`id,name,email,flag`
+
+Most of the rows have "none" in the flag column.  
+But one row… has the real flag.
+
+🕶️ Your mission:
+- Use the `awk` command to extract the **4th column** from the file.
+- Scan through the output and spot the flag.
+
+📌 Rules:
+❌ Do NOT use `cat`, `grep`, or open the file manually.  
+✅ Use ONLY the `awk` command.

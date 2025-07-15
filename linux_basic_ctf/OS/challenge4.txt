@@ -1,0 +1,13 @@
+🎯 Challenge 4: Scan the Logs
+
+There are 10 log files in this directory.  
+Each contains normal text — except one.  
+Only one file holds the hidden flag.
+
+🕶️ Your mission:
+- Use the `grep` command to search for the line that contains the flag.
+- The flag is in this format: `FLAG{...}`
+
+📌 Rules:
+❌ Do NOT open files one by one.  
+✅ Use ONLY the `grep` command.

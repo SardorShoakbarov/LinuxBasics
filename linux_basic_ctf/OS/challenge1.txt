@@ -1,0 +1,8 @@
+🎯 Mission: Read the Flag
+
+Inside this folder, there is another folder.  
+That folder contains a file named: `flag.txt`
+
+🕵️ Your task:
+1. Go into the folder.
+2. Read the object
